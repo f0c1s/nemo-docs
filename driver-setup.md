@@ -36,7 +36,7 @@ Find the latest here:
 http://chromedriver.storage.googleapis.com/index.html
 
 For OS X, if you're using [Homebrew](http://brew.sh/), there's a [Homebrew formula](http://brewformulas.org/Chromedriver),
-which makes installation much easier.  To install, it's simply `brew install chromedriver`.
+which makes installation much easier.  To install, it's simply `brew tap homebrew/cask && brew cask install chromedriver`.
 
 ## Using Safari
 
